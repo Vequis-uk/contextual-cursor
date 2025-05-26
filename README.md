@@ -6,3 +6,7 @@ Remember how RSHD had a custom mouse cursor when you hovered over stuff? Well it
 * RL tooltips are partially underneath the cursor when they're displayed below the cursor
 * Many things that should have contextual cursors don't. Feel free to make an issue suggesting them, as long as they
 don't overlap with another thing that has the same option.
+
+This is a fork of https://github.com/Enriath/external-plugins/tree/contextual-cursor
+
+All credit goes to Enriath, I have just updated it as per Idavid342's fixes to allow this plugin to work with custom cursors
